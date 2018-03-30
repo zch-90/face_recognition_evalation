@@ -1,0 +1,2 @@
+LIBRARY "MatMTCNN.mexw64"
+EXPORTS mexFunction
