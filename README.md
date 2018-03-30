@@ -1,2 +1,2 @@
 # face_recognition_evalation
-BLUFR
+人脸识别评价BLUFR方法
